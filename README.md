@@ -49,7 +49,7 @@ I’m constantly exploring new frameworks, tools, and design patterns to stay cu
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Singizwa1&show_icons=true&theme=github_dark&hide_border=true" />
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Singizwa1&theme=github-dark&hide_border=true" />
 </p>
 
